@@ -1,4 +1,7 @@
 #Implementation of the game Guess the number
+#Open in CodeSkulptor: http://www.codeskulptor.org/#user39_3bS9J6TdFu_1.py
+
+
 import simplegui
 import random
 import math
