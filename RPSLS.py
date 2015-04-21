@@ -1,4 +1,5 @@
-# Rock-paper-scissors-lizard-Spock template
+# Rock-paper-scissors-lizard-Spock 
+# Open in CodeSkulptor: http://www.codeskulptor.org/#user39_3bS9J6TdFu_1.py
 
 import random
 
