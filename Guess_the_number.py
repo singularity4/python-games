@@ -1,5 +1,4 @@
-#Implementation of the game stopwatch 
-
+#Implementation of the game Guess the number
 import simplegui
 import random
 import math
