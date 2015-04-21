@@ -1,3 +1,5 @@
+#Implementation of the game stopwatch 
+
 import simplegui
 import random
 import math
